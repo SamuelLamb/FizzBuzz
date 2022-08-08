@@ -21,7 +21,7 @@ Any multiples of 7 are replaced/appended with the word "Bang".
 Any multiples of 11 replace the entire string with the word "Bong".
 
 
-Any multiples of 13 insert the word "Fezz" into the string either:
+Any multiples of 13 insert the word "Fezz" into the string either
 
 
                                                         Immediately before a word beginning with "B" (This includes the word "Bong").
