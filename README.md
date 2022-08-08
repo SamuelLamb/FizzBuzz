@@ -3,7 +3,7 @@
 Step 1 is to print all integers from 1 to 100.
 Any mutliples of 3 are replaced with the word "Fizz".
 Any multiples of 5 are replaced/appended with the word "Buzz".
-Any multiples of both 3 and 5 become "FizzBuzz", as multiples of 5 will append "Buzz" to "Fizz".
+Any multiples of both 3 and 5 become "FizzBuzz", as multiples of 5 will append "Buzz" to "Fizz"./n
 
 Step 2 adds more rules depending on if numbers are multiples.
 Any multiples of 7 are replaced/appended with the word "Bang".
