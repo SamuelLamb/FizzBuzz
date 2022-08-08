@@ -2,7 +2,6 @@
 
 Step 1 is to print all integers from 1 to 100.
 
-
 Any mutliples of 3 are replaced with the word "Fizz".
 
 
